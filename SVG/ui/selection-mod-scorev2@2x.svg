@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6917"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-scorev2@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6921" />
+  <sodipodi:namedview
+     id="namedview6919"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.7729708"
+     inkscape:cx="70.710678"
+     inkscape:cy="62.12064"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6923" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6923">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="9.6553478"
+       y="114.69243"
+       id="text1242"><tspan
+         sodipodi:role="line"
+         id="tspan1240"
+         x="9.6553478"
+         y="114.69243">Score V2</tspan></text>
+    <rect
+       style="fill:#00cdff;fill-opacity:1;stroke:none;stroke-width:5"
+       id="rect844"
+       width="136"
+       height="132"
+       x="-2.806568e-10"
+       y="2.8150557e-09" />
+    <path
+       id="path4016"
+       style="fill:#feffff;fill-opacity:1;stroke-width:4.62128"
+       d="M 63.870599,16.96178 A 62.500437,62.500437 0 0 0 26.448971,32.637727 62.500437,62.500437 0 0 0 16.803067,115.17461 H 119.19832 A 62.500437,62.500437 0 0 0 109.5488,32.637727 62.500437,62.500437 0 0 0 63.870599,16.96178 Z m 4.128288,7.773018 A 11.003713,11.003713 0 0 1 79.005249,35.737551 11.003713,11.003713 0 0 1 67.998887,46.740302 11.003713,11.003713 0 0 1 56.996135,35.737551 11.003713,11.003713 0 0 1 67.998887,24.734798 Z m -32.759262,13.27259 a 11.003713,11.003713 0 0 1 8.56331,3.193648 11.003713,11.003713 0 0 1 0,15.560469 11.003713,11.003713 0 0 1 -15.560468,0 11.003713,11.003713 0 0 1 0,-15.560469 11.003713,11.003713 0 0 1 6.997158,-3.193648 z m 63.952367,0 a 11.003713,11.003713 0 0 1 8.563318,3.193648 11.003713,11.003713 0 0 1 0,15.560469 11.003713,11.003713 0 0 1 -15.560468,0 11.003713,11.003713 0 0 1 0,-15.560469 11.003713,11.003713 0 0 1 6.99715,-3.193648 z M 88.492372,58.103921 76.291549,101.24164 a 11.003713,11.003713 0 0 1 -9.526818,5.50318 11.003713,11.003713 0 0 1 -9.530427,-5.50318 11.003713,11.003713 0 0 1 0,-11.002754 z M 22.778981,69.954703 A 11.003713,11.003713 0 0 1 33.781734,80.957456 11.003713,11.003713 0 0 1 22.778981,91.963819 11.003713,11.003713 0 0 1 11.776227,80.957456 11.003713,11.003713 0 0 1 22.778981,69.954703 Z m 90.443429,0 a 11.003713,11.003713 0 0 1 11.00275,11.002753 11.003713,11.003713 0 0 1 -11.00275,11.006363 11.003713,11.003713 0 0 1 -11.00637,-11.006363 11.003713,11.003713 0 0 1 11.00637,-11.002753 z" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-47"
+       cx="41.314266"
+       cy="42.424538"
+       r="0" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-4"
+       cx="41.314266"
+       cy="42.424538"
+       r="0" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-5"
+       cx="41.314266"
+       cy="42.424538"
+       r="0" />
+  </g>
+</svg>

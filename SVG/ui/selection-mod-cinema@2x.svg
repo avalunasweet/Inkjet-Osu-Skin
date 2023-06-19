@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6167"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-cinema@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6171">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 66 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="136 : 66 : 1"
+       inkscape:persp3d-origin="68 : 44 : 1"
+       id="perspective1012" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6169"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.6336922"
+     inkscape:cx="37.443143"
+     inkscape:cy="76.720676"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6173" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6173">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.6797px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fffffe;fill-opacity:0.885714;stroke:none;stroke-width:0.980392"
+       x="6.8212342"
+       y="122.94603"
+       id="text6154"><tspan
+         sodipodi:role="line"
+         id="tspan6152"
+         x="6.8212342"
+         y="122.94603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.6797px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fffffe;fill-opacity:0.885714;stroke:none;stroke-width:0.980392;stroke-opacity:1">Cinema</tspan></text>
+    <rect
+       style="fill:#00cdff;fill-opacity:1;stroke:none"
+       id="rect844"
+       width="136"
+       height="132"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.989735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 110.52642,3.9995863 A 42.321318,34.458021 0 0 1 92.140242,31.853472 L 109.82176,52.668265 130.5,40.500608 V 3.9995863 Z"
+       id="path4338" />
+    <path
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.989735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.5,3.5 V 40.001022 L 26.178232,52.168678 43.72572,31.513909 A 42.321318,34.458021 0 0 1 25.92356,3.5 Z"
+       id="path3614" />
+    <path
+       id="path3022"
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.989735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5.5,43.997712 v 35.91752 12.167657 35.917521 H 26.178232 V 92.082889 56.165369 Z" />
+    <path
+       id="path3022-8-9"
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.989735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130.5,44.497298 109.82176,56.664955 V 80.414819 92.582475 128.5 H 130.5 V 92.582475 Z" />
+    <path
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path3953-2"
+       sodipodi:type="arc"
+       sodipodi:cx="68.245094"
+       sodipodi:cy="3.9914186"
+       sodipodi:rx="39.223728"
+       sodipodi:ry="30.886013"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="slice"
+       d="M 107.46882,3.9914186 A 39.223728,30.886013 0 0 1 87.856958,30.739491 39.223728,30.886013 0 0 1 48.633229,30.73949 39.223728,30.886013 0 0 1 29.021366,3.9914186 h 39.223728 z" />
+  </g>
+</svg>

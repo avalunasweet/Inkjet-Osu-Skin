@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6977"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-suddendeath@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6981">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient855">
+      <stop
+         style="stop-color:#ff00cc;stop-opacity:1;"
+         offset="0"
+         id="stop851" />
+      <stop
+         style="stop-color:#ff00cc;stop-opacity:0.5"
+         offset="1"
+         id="stop853" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient847">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1;"
+         offset="0"
+         id="stop843" />
+      <stop
+         style="stop-color:#00ccff;stop-opacity:0.5"
+         offset="1"
+         id="stop845" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient847"
+       id="linearGradient849"
+       x1="91.896512"
+       y1="461.00002"
+       x2="676.10349"
+       y2="461.00002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.0955027e-6,-2.1503155e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient855"
+       id="linearGradient857"
+       x1="59.896512"
+       y1="429.00002"
+       x2="644.10349"
+       y2="429.00002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.0955027e-6,-2.1503155e-5)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6979"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.7729708"
+     inkscape:cx="64.006258"
+     inkscape:cy="53.740115"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6983" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6983">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="9.9138088"
+       y="90.990211"
+       id="text2826"><tspan
+         sodipodi:role="line"
+         id="tspan1087"
+         x="9.9138088"
+         y="90.990211">Sudden </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1089"
+         x="9.9138088"
+         y="120.99021">   Death</tspan></text>
+    <rect
+       style="fill:#ff00cd;fill-opacity:1;stroke:none;stroke-width:0.764;stroke-opacity:0"
+       id="rect7142"
+       width="136"
+       height="132"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#fffffd;fill-opacity:1;stroke-width:11.652"
+       id="path1173"
+       cx="-10.785018"
+       cy="-113.3198"
+       r="37.754681"
+       transform="matrix(0.5,-0.8660254,-0.8660254,-0.5,0,0)" />
+    <rect
+       style="fill:#fffffd;fill-opacity:1;stroke-width:10.7886"
+       id="rect1277"
+       width="18.343317"
+       height="11.731793"
+       x="-19.940741"
+       y="-78.707603"
+       transform="matrix(0.5,-0.8660254,-0.8660254,-0.5,0,0)" />
+    <path
+       style="fill:#fffffd;fill-opacity:1;stroke:#fdffff;stroke-width:7.5;stroke-opacity:1"
+       id="path1405"
+       sodipodi:type="arc"
+       sodipodi:cx="-73.11599"
+       sodipodi:cy="4.2037764"
+       sodipodi:rx="22.491024"
+       sodipodi:ry="22.491024"
+       sodipodi:start="0"
+       sodipodi:end="1.0471976"
+       sodipodi:arc-type="arc"
+       d="M -50.624966,4.2037764 A 22.491024,22.491024 0 0 1 -61.870479,23.681575"
+       sodipodi:open="true"
+       transform="rotate(-120)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.947919,46.90621 28.276583,67.591435 23.800881,56.285294 15.807207,64.717418 18.001139,53.747387 9.1005044,53.85323 16.087783,46.749774 5.5000044,42.285372 14.521328,39.763182 10.75152,31.271866 24.578578,37.718872"
+       id="path2571"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>

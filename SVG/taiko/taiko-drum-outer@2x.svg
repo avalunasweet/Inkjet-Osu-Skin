@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg8327"
+   width="180"
+   height="400"
+   viewBox="0 0 180 400"
+   sodipodi:docname="taiko-drum-outer@2x.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8331" /><sodipodi:namedview
+     id="namedview8329"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.6818751"
+     inkscape:cx="-102.26681"
+     inkscape:cy="226.83016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8333" /><g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8333"><path
+       id="path396-7-5-5-3"
+       style="fill:#00ccff;fill-opacity:1;stroke-width:17.522;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 4.4265319,35.788221 v 42.052947 a 126.15884,126.15884 0 0 1 109.2573381,63.079412 126.15884,126.15884 0 0 1 0,126.15884 126.15884,126.15884 0 0 1 -109.2573381,63.07941 v 42.05295 a 168.21178,168.21178 0 0 0 145.6758581,-84.1059 168.21178,168.21178 0 0 0 0,-168.21177 A 168.21178,168.21178 0 0 0 4.4265319,35.788221 Z" /><rect
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke-width:23.7171;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect286"
+       width="480"
+       height="480"
+       x="-334.53735"
+       y="-56.871063" /><rect
+       style="opacity:0;fill:#ffffff;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect598"
+       width="362"
+       height="400"
+       x="-275.53735"
+       y="-16.871063" /></g></svg>

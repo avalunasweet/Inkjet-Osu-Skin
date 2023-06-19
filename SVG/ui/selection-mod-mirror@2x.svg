@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6677"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-mirror@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6681" />
+  <sodipodi:namedview
+     id="namedview6679"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.7729708"
+     inkscape:cx="53.111576"
+     inkscape:cy="66.101389"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6683" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6683">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="6.6358624"
+       y="43.754513"
+       id="text1390"><tspan
+         sodipodi:role="line"
+         id="tspan1901"
+         x="6.6358624"
+         y="43.754513">Mirror</tspan></text>
+    <rect
+       style="fill:#00cdff;fill-opacity:1;stroke:none;stroke-width:5"
+       id="rect844-6"
+       width="136"
+       height="132"
+       x="0"
+       y="0" />
+    <g
+       id="g1859"
+       transform="matrix(1.1890609,0,0,1.1890609,-6.9398729,-38.534011)">
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 49.575207,65.210938 V 110.61523 H 60.524421 V 87.914062 H 58.788092 V 65.210938 Z"
+         id="path3997" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 10.461931,65.210938 V 110.61523 H 21.411145 V 87.914062 H 19.674816 V 65.210938 Z"
+         id="path3997-3" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 36.624035,87.914062 V 110.61523 H 47.575207 V 65.210938 h -9.212891 v 22.703124 z"
+         id="path3995" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 23.674816,87.914062 V 110.61523 H 34.624035 V 87.914062 H 32.887707 V 65.210938 h -7.474609 v 22.703124 z"
+         id="path3991" />
+    </g>
+    <rect
+       style="fill:#fffffd;fill-opacity:1;stroke-width:6.77075;stroke-opacity:0.33"
+       id="rect1579"
+       width="3.5671828"
+       height="71.343651"
+       x="66.216415"
+       y="30.328175" />
+    <g
+       id="g1853"
+       transform="matrix(1.1890609,0,0,1.1890609,-18.772411,-38.534011)">
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 86.424792,65.210942 V 110.61523 H 75.475583 V 87.914062 h 1.736329 v -22.70312 z"
+         id="path3997-7" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="m 125.53807,65.210942 v 45.404288 h -10.9492 V 87.914062 h 1.73632 v -22.70312 z"
+         id="path3997-3-4" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 99.375956,87.914062 V 110.61523 H 88.424791 V 65.210942 h 9.212885 v 22.70312 z"
+         id="path3995-5" />
+      <path
+         style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:9.464;stroke-opacity:0.33"
+         d="M 112.32518,87.914062 V 110.61523 H 101.37596 V 87.914062 h 1.73633 v -22.70312 h 7.47461 v 22.70312 z"
+         id="path3991-2" />
+    </g>
+  </g>
+</svg>

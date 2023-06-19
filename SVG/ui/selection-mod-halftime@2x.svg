@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6317"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-halftime@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6321">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1434">
+      <stop
+         style="stop-color:#fffcff;stop-opacity:1;"
+         offset="0"
+         id="stop1430" />
+      <stop
+         style="stop-color:#fffcff;stop-opacity:0;"
+         offset="1"
+         id="stop1432" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1434"
+       id="linearGradient1438"
+       x1="40.568359"
+       y1="44.054688"
+       x2="98.142578"
+       y2="44.054688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.7716814,0,0,-1.7716814,190.87676,144.0516)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6319"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.6336922"
+     inkscape:cx="44.780704"
+     inkscape:cy="70.246358"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6323" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6323">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fffcff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="19.938435"
+       y="118.77674"
+       id="text5993"><tspan
+         sodipodi:role="line"
+         id="tspan5991"
+         x="19.938435"
+         y="118.77674">Half</tspan></text>
+    <rect
+       style="fill:#ffcd00;fill-opacity:1;stroke:none;stroke-width:0.764"
+       id="rect844"
+       width="136"
+       height="132"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#fffcff;fill-opacity:1;stroke:none;stroke-width:1.35356"
+       id="rect890"
+       width="65.006378"
+       height="16.646465"
+       x="-27.670057"
+       y="39.513783"
+       transform="rotate(-42.931608)" />
+    <rect
+       style="fill:#fffcff;fill-opacity:1;stroke:none;stroke-width:1.15015"
+       id="rect890-8"
+       width="7.0867257"
+       height="110.2515"
+       x="-27.670057"
+       y="39.513783"
+       transform="rotate(-42.931608)" />
+    <rect
+       style="fill:#fffcff;fill-opacity:1;stroke:none;stroke-width:1.15015"
+       id="rect890-8-9"
+       width="7.0867257"
+       height="110.2515"
+       x="30.249594"
+       y="39.513783"
+       transform="rotate(-42.931608)" />
+    <rect
+       style="fill:#fffcff;fill-opacity:1;stroke:none;stroke-width:1.35356"
+       id="rect890-9"
+       width="65.006378"
+       height="16.646465"
+       x="-27.670057"
+       y="133.11879"
+       inkscape:transform-center-x="21.637951"
+       inkscape:transform-center-y="-55.172254"
+       transform="rotate(-42.931608)" />
+    <path
+       id="rect1128"
+       style="fill:url(#linearGradient1438);fill-opacity:1;stroke:none;stroke-width:1.35357"
+       d="M 92.095139,118.87782 119.00255,93.845893 93.970629,66.938482 68.000965,66.000736 67.06322,91.970404 Z M 68.000965,66.000736 68.938711,40.03107 43.90679,13.123658 16.999379,38.15558 42.031299,65.062992 Z" />
+  </g>
+</svg>

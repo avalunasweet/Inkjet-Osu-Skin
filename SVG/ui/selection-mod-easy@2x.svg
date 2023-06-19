@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6227"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-easy@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6231" />
+  <sodipodi:namedview
+     id="namedview6229"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.2765152"
+     inkscape:cx="27.010404"
+     inkscape:cy="66.0763"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6233" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6233">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="25.871815"
+       y="116.47971"
+       id="text1972"><tspan
+         sodipodi:role="line"
+         id="tspan1970"
+         x="25.871815"
+         y="116.47971"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:33.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">Easy</tspan></text>
+    <rect
+       style="fill:#ffcc00;stroke:none;fill-opacity:1"
+       id="rect1582"
+       width="136"
+       height="132"
+       x="0"
+       y="0" />
+    <path
+       id="path866"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.79669"
+       d="M 55.073975,3.500001 V 75.739692 A 27.834166,27.834166 0 0 0 42.707673,72.834102 27.834166,27.834166 0 0 0 14.87297,100.6653 27.834166,27.834166 0 0 0 42.707673,128.5 a 27.834166,27.834166 0 0 0 27.834701,-27.8347 27.834166,27.834166 0 0 0 -0.0597,-1.712471 h 0.0597 V 36.503707 A 28.02793,28.02793 0 0 0 106.33587,44.711646 28.02793,28.02793 0 0 0 121.127,19.968517 28.02793,28.02793 0 0 1 111.6698,28.236113 28.02793,28.02793 0 0 1 73.760284,16.659374 28.02793,28.02793 0 0 1 70.542374,3.500001 Z" />
+  </g>
+</svg>

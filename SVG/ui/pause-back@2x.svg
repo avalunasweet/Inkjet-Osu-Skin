@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg3677"
+   width="822"
+   height="244"
+   viewBox="0 0 822 244"
+   sodipodi:docname="pause-back@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3681" />
+  <sodipodi:namedview
+     id="namedview3679"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.76277369"
+     inkscape:cx="425.42107"
+     inkscape:cy="121.26795"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3683" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g3683">
+    <rect
+       style="fill:#ff00cd;fill-opacity:1;stroke-width:1.96503"
+       id="rect844"
+       width="750"
+       height="180"
+       x="36"
+       y="32" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:93.3333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fdffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="66.384506"
+       y="157.41879"
+       id="text1456"><tspan
+         sodipodi:role="line"
+         id="tspan2874"
+         x="66.384506"
+         y="157.41879">back to menu</tspan></text>
+  </g>
+</svg>

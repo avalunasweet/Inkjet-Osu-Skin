@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg7007"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-target@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7011" />
+  <sodipodi:namedview
+     id="namedview7009"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.7729708"
+     inkscape:cx="67.987007"
+     inkscape:cy="66.101389"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7013" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g7013">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="7.0461144"
+       y="91.031853"
+       id="text2439"><tspan
+         sodipodi:role="line"
+         id="tspan1161"
+         x="7.0461144"
+         y="91.031853">Target</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1163"
+         x="7.0461144"
+         y="116.03185">  Practice</tspan></text>
+    <rect
+       style="fill:#00cdff;fill-opacity:1;stroke:none;stroke-width:5"
+       id="rect844"
+       width="136"
+       height="132"
+       x="-7.2307885e-06"
+       y="0" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-47"
+       cx="41.301273"
+       cy="42.525928"
+       r="0" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-4"
+       cx="41.301273"
+       cy="42.525928"
+       r="0" />
+    <circle
+       style="fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:1.19985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2474-5"
+       cx="41.301273"
+       cy="42.525928"
+       r="0" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:3.12753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241"
+       cx="99.417885"
+       cy="66"
+       r="26.807543" />
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:3.12753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241-2"
+       cx="99.417885"
+       cy="66"
+       r="9.8505001" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241-6"
+       transform="rotate(120)"
+       d="m 43.304581,-103.42629 a 26.807543,26.807543 0 0 1 -13.403772,23.216011 26.807543,26.807543 0 0 1 -26.8075425,0"
+       sodipodi:type="arc"
+       sodipodi:arc-type="arc"
+       sodipodi:start="0"
+       sodipodi:end="2.0943951"
+       sodipodi:ry="26.807543"
+       sodipodi:rx="26.807543"
+       sodipodi:cy="-103.42629"
+       sodipodi:cx="16.497038"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241-6-3"
+       transform="rotate(120)"
+       d="m 49.877846,-87.397858 a 24.126787,24.126787 0 0 1 -12.063394,20.894411 24.126787,24.126787 0 0 1 -24.126787,0"
+       sodipodi:type="arc"
+       sodipodi:arc-type="arc"
+       sodipodi:start="0"
+       sodipodi:end="2.0943951"
+       sodipodi:ry="24.126787"
+       sodipodi:rx="24.126787"
+       sodipodi:cy="-87.397858"
+       sodipodi:cx="25.751059"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241-6-7"
+       transform="rotate(120)"
+       d="m 56.451107,-71.369423 a 21.446033,21.446033 0 0 1 -10.723017,18.57281 21.446033,21.446033 0 0 1 -21.446033,0"
+       sodipodi:type="arc"
+       sodipodi:arc-type="arc"
+       sodipodi:start="0"
+       sodipodi:end="2.0943951"
+       sodipodi:ry="21.446033"
+       sodipodi:rx="21.446033"
+       sodipodi:cy="-71.369423"
+       sodipodi:cx="35.005074"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1241-6-4"
+       transform="rotate(120)"
+       d="m 63.024374,-55.340996 a 18.76528,18.76528 0 0 1 -9.38264,16.251209 18.76528,18.76528 0 0 1 -18.76528,0"
+       sodipodi:type="arc"
+       sodipodi:arc-type="arc"
+       sodipodi:start="0"
+       sodipodi:end="2.0943951"
+       sodipodi:ry="18.76528"
+       sodipodi:rx="18.76528"
+       sodipodi:cy="-55.340996"
+       sodipodi:cx="44.259094"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.41396;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2182"
+       width="2.712821"
+       height="70.141167"
+       x="51.742004"
+       y="71.796036"
+       transform="rotate(-30)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.41396;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2182-5"
+       width="2.712821"
+       height="70.141167"
+       x="-108.22304"
+       y="18.027843"
+       transform="rotate(-120)" />
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6737"
+   width="136"
+   height="132"
+   viewBox="0 0 136 132"
+   sodipodi:docname="selection-mod-nightcore@2x.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6741">
+    <filter
+       id="mask-powermask-path-effect2583_inverse"
+       inkscape:label="filtermask-powermask-path-effect2583"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect2583_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect2583_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect2588_inverse"
+       inkscape:label="filtermask-powermask-path-effect2588"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect2588_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect2588_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview6739"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.7729708"
+     inkscape:cx="79.300716"
+     inkscape:cy="51.016445"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6743" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6743">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="1.4645731"
+       y="119.50769"
+       id="text2945"><tspan
+         sodipodi:role="line"
+         id="tspan981"
+         x="1.4645731"
+         y="119.50769">Nightcore</tspan></text>
+    <rect
+       style="fill:#ff00cd;fill-opacity:1;stroke:none"
+       id="rect844"
+       width="136"
+       height="132"
+       x="-0.01299246"
+       y="0.10138945" />
+    <path
+       style="fill:#fffffd;stroke-width:9.464;stroke-opacity:0.33"
+       id="path1163"
+       sodipodi:type="arc"
+       sodipodi:cx="-95.106339"
+       sodipodi:cy="24.734938"
+       sodipodi:rx="19.23494"
+       sodipodi:ry="19.23494"
+       sodipodi:start="2.8797933"
+       sodipodi:end="0.26179939"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -113.68586,29.713306 a 19.23494,19.23494 0 0 1 7.54681,-20.7347087 19.23494,19.23494 0 0 1 22.06542,4e-7 19.23494,19.23494 0 0 1 7.546816,20.7347083"
+       transform="rotate(-90)" />
+    <path
+       style="fill:#fffffd;stroke-width:9.464;stroke-opacity:0.33"
+       id="path1163-6"
+       sodipodi:type="arc"
+       sodipodi:cx="-95.106339"
+       sodipodi:cy="-111.26506"
+       sodipodi:rx="19.23494"
+       sodipodi:ry="19.23494"
+       sodipodi:start="2.8797933"
+       sodipodi:end="0.26179939"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       transform="matrix(0,-1,-1,0,0,0)"
+       d="m -113.68586,-106.28669 a 19.23494,19.23494 0 0 1 7.54681,-20.73471 19.23494,19.23494 0 0 1 22.06542,0 19.23494,19.23494 0 0 1 7.546816,20.73471" />
+    <path
+       style="fill:none;stroke:#fffffd;stroke-width:9.464;stroke-opacity:1"
+       id="path1428"
+       sodipodi:type="arc"
+       sodipodi:cx="67.999992"
+       sodipodi:cy="69.793274"
+       sodipodi:rx="47.409561"
+       sodipodi:ry="47.409561"
+       sodipodi:start="2.8797933"
+       sodipodi:end="0.26179939"
+       sodipodi:arc-type="arc"
+       d="m 22.205872,82.06377 a 47.409561,47.409561 0 0 1 18.601114,-51.106136 47.409561,47.409561 0 0 1 54.386014,1e-6 47.409561,47.409561 0 0 1 18.60111,51.106136"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#fffffd;stroke-width:5.35224;stroke-opacity:0.33"
+       id="rect1289"
+       width="9.6174698"
+       height="38.469879"
+       x="31.911589"
+       y="75.871399" />
+    <rect
+       style="fill:#fffffd;stroke-width:5.35224;stroke-opacity:0.33"
+       id="rect1289-3"
+       width="9.6174698"
+       height="38.469879"
+       x="94.47094"
+       y="75.871399" />
+  </g>
+</svg>
